@@ -1,0 +1,1 @@
+This code is for 1 bag containg balls of 2 different colors
