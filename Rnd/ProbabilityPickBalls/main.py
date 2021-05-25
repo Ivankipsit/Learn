@@ -13,6 +13,7 @@ dict_balls_colors = maininp.basic_inputs(colors_inp,b_inp)      #dict
 total_balls = sum(balls)                                        #int single
 print(dict_balls_colors)
 
+print("For Questions with almost or atleast just type 'total balls picked'_space_'0'")
 
 bp_input = input("Enter balls needed to be picked: ").split()
 dict_balls_picked = maininp.picked_balls_func(colors_inp,bp_input)
